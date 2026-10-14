@@ -1,10 +1,10 @@
 # Bedford Thai
 
-> Bedford Thai — Authentic Thai Cuisine in Stamford
+> Bedford Thai is an authentic Thai restaurant located at 77 Bedford Street in Stamford, CT 06901.
 
 ## Services
 ### Appetizer
-- Edamame — $6.95
+- Umang — $6.95
 - Vegetable Spring Roll — $5.50
 - Chicken Cashew Wrap — $13.95
 - Roti Canai — $9.95
@@ -54,6 +54,10 @@
 - Pad Thai
 
 *Full menu: https://bedfordthai.com/menu*
+
+### Signature
+- Pad Thai
+- Tom Yum Goong
 
 ## Location & Contact
 - Address: 77 Bedford Street, Stamford, CT 06901

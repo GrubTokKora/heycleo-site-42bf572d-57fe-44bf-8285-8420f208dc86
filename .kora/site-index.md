@@ -9,7 +9,7 @@ sections:
 - `#heroMedia` — hero image, restaurant name, tagline and the order-online call to action
 - `#about` "About Bedford Thai" — the restaurant's story and cooking approach
 - `#menu` "Explore Our Flavors" — the full menu, split into the eleven category blocks below
-- `#appetizer` "Appetizer" — 15 priced items: Edamame, Vegetable Spring Roll, Chicken Cashew Wrap, Roti Canai, Crab Rangoon, Curry Puff, Po Pia Sod, Shrimp Summer Roll, Táo Hoo Tord, Dumpling, Chicken Satay, Chicken Wing, Lime Chili Shrimp, Crispy Calamari, Kong Tod
+- `#appetizer` "Appetizer" — 15 priced items: Umang, Vegetable Spring Roll, Chicken Cashew Wrap, Roti Canai, Crab Rangoon, Curry Puff, Po Pia Sod, Shrimp Summer Roll, Táo Hoo Tord, Dumpling, Chicken Satay, Chicken Wing, Lime Chili Shrimp, Crispy Calamari, Kong Tod
 - `#soup` "Soup" — 4 priced items: Tom Yum Goong, Tom Kha Gai, Sweet Corn Soup, Vegetable Soup
 - `#salad` "Salad" — 6 priced items: Thai Salad, Somtum, Larb, Nua Nam Tok, Duck Salad, Yum Woon Sen
 - `#chef-special` "Chef Special" — 14 priced items: Sizzling Pancake, Seafood Delight, Pla Rad Prik, Pla Sam Rod, Salmon Mango Curry, Steamed Ginger Fish, Pineapple Duck Curry, Duck Choo Chee, Duck Ga Prow, Peanut Shrimp Curry, Pra Raam Chicken, Shaking Beef, Laksa Shrimp, Garlic Eggplant Asparagus
